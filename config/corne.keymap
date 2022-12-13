@@ -33,7 +33,7 @@
 //                    | ALT | CRL | SPC |   | ENT |     | ALT |
                         bindings = <
    &trans    &kp N1       &kp N2       &kp N3       &kp N4       &kp N5         &kp N6   &kp N7   &kp N8 &kp N9    &kp N0 &kp BSPC
-   &trans &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT   &kp AMPS &kp SLASH &kp LPAR &kp RPAR &kp PLUS &kp QUESTION
+   &trans &kp EXCL &kp AT_SIGN &kp HASH &kp DLLR &kp PRCNT   &kp AMPS &kp SLASH &kp LPAR &kp RPAR &kp PLUS &kp QUESTION
    &trans  &trans       &trans       &trans       &trans       &trans         &trans   &trans   &trans &trans    &trans &mo 2
                           	     &kp LGUI     &trans       &trans      &trans  &trans   &kp RALT
                         >;
